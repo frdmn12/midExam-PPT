@@ -7,6 +7,6 @@ type dataMahasiswa struct {
 }
 
 var ListMahasiswa = []dataMahasiswa{
-	{Nama: "Gusti", Nim: 111, Alamat: "Jl. Sudirman No.1"},
-	{Nama: "Pangestu", Nim: 222, Alamat: "Jl. Gatot Subroto No.10"},
+	{Nama: "Gusti", Nim: 1234, Alamat: "Malang"},
+	{Nama: "Pangestu", Nim: 321, Alamat: "Kabupaten Malang"},
 }
